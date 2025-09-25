@@ -1,0 +1,63 @@
+
+All Movies: 
+
+Cabin Fever	horror	R	54.3	93
+Deliver Us From Eva	comedy	R	61.8	105
+Duplex	comedy	PG-13	51.3	89
+Freddy vs. Jason	horror	R	47.3	97
+House of 1000 Corpses	horror	R	36.3	105
+Intolerable Cruelty	comedy	PG-13	67.1	100
+Lara Croft, Tomb Raider	action	PG-13	48.8	117
+Matchstick Men	comedy	PG-13	68.9	116
+Old School	comedy	R	54.7	92
+The Hulk	action	PG-13	61.0	138
+The Hunted	action	R	54.0	94
+The Italian Job	action	PG-13	66.5	111
+The League of Extraordinary Gentlemen	action	PG-13	43.2	110
+The Life of David Gale	suspense	R	46.9	130
+The Lizze McGuire Movie	comedy	PG	57.1	94
+The Recruit	suspense	PG-13	62.6	115
+Willard	horror	PG-13	60.3	100
+Wrong Turn	horror	R	32.6	84
+big fish	drama	PG-13	78.0	125
+
+All Movies by Score: 
+
+Wrong Turn	horror	R	32.6	84
+House of 1000 Corpses	horror	R	36.3	105
+The League of Extraordinary Gentlemen	action	PG-13	43.2	110
+The Life of David Gale	suspense	R	46.9	130
+Freddy vs. Jason	horror	R	47.3	97
+Lara Croft, Tomb Raider	action	PG-13	48.8	117
+Duplex	comedy	PG-13	51.3	89
+The Hunted	action	R	54.0	94
+Cabin Fever	horror	R	54.3	93
+Old School	comedy	R	54.7	92
+The Lizze McGuire Movie	comedy	PG	57.1	94
+Willard	horror	PG-13	60.3	100
+The Hulk	action	PG-13	61.0	138
+Deliver Us From Eva	comedy	R	61.8	105
+The Recruit	suspense	PG-13	62.6	115
+The Italian Job	action	PG-13	66.5	111
+Intolerable Cruelty	comedy	PG-13	67.1	100
+Matchstick Men	comedy	PG-13	68.9	116
+big fish	drama	PG-13	78.0	125
+
+All Movies by Run Time: 
+
+Wrong Turn	horror	R	32.6	84
+Duplex	comedy	PG-13	51.3	89
+Old School	comedy	R	54.7	92
+Cabin Fever	horror	R	54.3	93
+The Lizze McGuire Movie	comedy	PG	57.1	94
+Freddy vs. Jason	horror	R	47.3	97
+Willard	horror	PG-13	60.3	100
+House of 1000 Corpses	horror	R	36.3	105
+The League of Extraordinary Gentlemen	action	PG-13	43.2	110
+The Italian Job	action	PG-13	66.5	111
+The Recruit	suspense	PG-13	62.6	115
+Matchstick Men	comedy	PG-13	68.9	116
+Lara Croft, Tomb Raider	action	PG-13	48.8	117
+big fish	drama	PG-13	78.0	125
+The Life of David Gale	suspense	R	46.9	130
+The Hulk	action	PG-13	61.0	138

@@ -1,0 +1,41 @@
+
+Alínea 1) ----------------------------------
+
+** Could not book CARAVAN space for client João Sousa [NORMAL: 123456789].
+
+** All client bookings
+Ana Pereira [NORMAL: 234567890] - [2023-08-01]ExameP.CarSpace@92d314e3 Costa Nova Ana Pereira [NORMAL: 234567890] - [2023-08-01]ExameP.CarSpace@939b73b7 Costa Nova Arlindo Marques [MEMBER: 501234567] - [2023-06-01]ExameP.CaravanSpace@9faa2585 Costa Nova 
+
+Alínea 2) ----------------------------------
+
+
+ExameP.CampingService@3e3abc88: Finished reading file.
+
+
+Looking for car space with dimensions 300x600
+** No options available for the type, dimensions, and dates requested.
+
+Looking for car space with dimensions 300x400
+** No options available for the type, dimensions, and dates requested.
+
+
+
+ExameP.CampingService@3e3abc88: AVAILABLE SPACES BY AREA
+ExameP.CaravanSpace@9faa2585
+ExameP.CaravanSpace@a0176137
+ExameP.CarSpace@939b73b7
+ExameP.CarSpace@92d314e3
+ExameP.CarSpace@93f2c6d5
+ExameP.TentSpace@4716c387
+ExameP.TentSpace@491fb12b
+ExameP.TentSpace@4716c387
+ExameP.TentSpace@491fb12b
+ExameP.TentSpace@4716c387
+ExameP.TentSpace@491fb12b
+ExameP.TentSpace@4716c387
+ExameP.TentSpace@491fb12b
+ExameP.TentSpace@4716c387
+ExameP.TentSpace@491fb12b
+ExameP.TentSpace@4716c387
+ExameP.TentSpace@491fb12b
+
