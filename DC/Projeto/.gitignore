@@ -1,0 +1,37 @@
+# ESP-IDF Build Folder (Contains all object files and binaries)
+/build/
+
+# Editor / IDE configuration (VS Code, Eclipse, etc.)
+.vscode/
+.idea/
+*.code-workspace
+
+# Espressif Component Manager
+managed_components/
+dependencies.lock
+
+# Python cache (used by ESP-IDF scripts)
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compilation outputs (if they somehow end up outside /build)
+*.bin
+*.elf
+*.map
+*.hex
+*.d
+*.o
+
+# Configuration files
+# sdkconfig is usually ignored in teams (using sdkconfig.defaults instead),
+# but for personal projects, you might want to keep it. 
+# It is commented out below by default. Uncomment to ignore it.
+# sdkconfig
+
+# Always ignore backups of the config
+sdkconfig.old
+sdkconfig.ci
